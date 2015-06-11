@@ -1,8 +1,4 @@
-local/puppet 4.1.0-1
-    Server automation framework and application
-local/vagrant 1.7.2-2
-    Build and distribute virtualized development environments
-local/virtualbox 4.3.28-1
-    Powerful x86 virtualization for enterprise as well as home use
-local/virtualbox-host-modules 4.3.28-1
-    Host kernel modules for VirtualBox
+local/puppet
+local/vagrant
+local/virtualbox
+local/virtualbox-host-modules
